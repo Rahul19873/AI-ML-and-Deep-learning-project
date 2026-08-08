@@ -1,2 +1,2 @@
-# ML-and-Deep-learning-project
+# AI/ ML-and-Deep-learning-project
 Machine learning project
